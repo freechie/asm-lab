@@ -1,0 +1,9 @@
+build/
+*.o
+*.so
+*.dSYM/
+__pycache__/
+.DS_Store
+artifacts/
+.verify.lock
+.cursor/
