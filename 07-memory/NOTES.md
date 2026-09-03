@@ -44,7 +44,7 @@ DRAM must be slower than L1. Row-major must beat column-major for C row-major ar
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, ch. 6. ISBN 978-0-13-409266-9.
 - Ulrich Drepper, [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf) (2007)

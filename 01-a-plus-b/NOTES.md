@@ -110,7 +110,7 @@ make run LESSON=01 PYTHON=$(pyenv which python3)
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, 3.1–3.5. ISBN 978-0-13-409266-9.
 - Anthony Shaw, *CPython Internals*. ISBN 978-1-77509-334-3.

@@ -49,7 +49,7 @@ Python calling C. That is the point.
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - Anthony Shaw, *CPython Internals*. ISBN 978-1-77509-334-3.
 - Victor Skvortsov, [How the CPython VM works](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/), [How Python integers work](https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/)

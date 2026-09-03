@@ -40,7 +40,7 @@ Landing on an efficiency core makes the same code roughly 2-3x slower.
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, 5.1–5.3. ISBN 978-0-13-409266-9.
 - Denis Bakhvalov, *Performance Analysis and Tuning on Modern CPUs*, 2e. ISBN 979-8-86958-422-9. [Free PDF](https://github.com/dendibakh/perf-book).

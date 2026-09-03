@@ -42,7 +42,7 @@ Running with `ARCH=x86_64` on Apple Silicon goes through Rosetta translation. Th
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, ch. 3. ISBN 978-0-13-409266-9. Now in the book's native x86-64.
 - Agner Fog, [calling-conventions manual](https://www.agner.org/optimize/)

@@ -46,7 +46,7 @@ Unconditional `b` jumps. `bl` jumps and links, storing the return address in `lr
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, 3.4–3.7. ISBN 978-0-13-409266-9. x86-64 in the book. Map `%rdi` to `x0`.
 - Pyeatt and Ughetta, *ARM 64-Bit Assembly Language*, ch. 1–4. ISBN 978-0-12-819221-4.

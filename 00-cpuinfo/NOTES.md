@@ -50,7 +50,7 @@ space on Apple Silicon raises `SIGILL`. Lesson 05 covers the workarounds.
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, ch. 6.1–6.2. ISBN 978-0-13-409266-9. North American hardcover.
 - [Dougall Johnson, Apple CPU](https://dougallj.github.io/applecpu/)

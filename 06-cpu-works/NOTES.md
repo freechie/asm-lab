@@ -49,7 +49,7 @@ Run `make asm LESSON=06 FUNC=vector_add_autovec` and look for `fadd.4s` and `q` 
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, 5.7–5.14. ISBN 978-0-13-409266-9.
 - Bakhvalov 2e. ISBN 979-8-86958-422-9.

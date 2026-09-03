@@ -54,7 +54,7 @@ table disappears. That is why the cases here are irregular.
 
 ## Further reading
 
-Full list with ISBNs: [RESOURCES.md](../RESOURCES.md).
+Full list with ISBNs: [README.md](../README.md#resources).
 
 - CS:APP 3e, 3.6–3.9. ISBN 978-0-13-409266-9.
 - Pyeatt and Ughetta, *ARM 64-Bit Assembly Language*. ISBN 978-0-12-819221-4.
