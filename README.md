@@ -1,6 +1,6 @@
 # Assembly, CPU, and Performance Lab
 
-A hands-on curriculum for reading ARM64 assembly, watching your M1 Pro
+A hands-on curriculum for reading ARM64 assembly, watching my M1 Pro
 execute it, and measuring why `a + b` costs about 100x more in Python than
 in C.
 
